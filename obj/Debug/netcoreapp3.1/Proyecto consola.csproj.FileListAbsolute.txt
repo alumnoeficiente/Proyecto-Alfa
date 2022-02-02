@@ -1,0 +1,28 @@
+C:\Desarrollo de aplicaciones web\Proyecto consola\bin\Debug\netcoreapp3.1\Proyecto consola.exe
+C:\Desarrollo de aplicaciones web\Proyecto consola\bin\Debug\netcoreapp3.1\Proyecto consola.deps.json
+C:\Desarrollo de aplicaciones web\Proyecto consola\bin\Debug\netcoreapp3.1\Proyecto consola.runtimeconfig.json
+C:\Desarrollo de aplicaciones web\Proyecto consola\bin\Debug\netcoreapp3.1\Proyecto consola.runtimeconfig.dev.json
+C:\Desarrollo de aplicaciones web\Proyecto consola\bin\Debug\netcoreapp3.1\Proyecto consola.dll
+C:\Desarrollo de aplicaciones web\Proyecto consola\bin\Debug\netcoreapp3.1\Proyecto consola.pdb
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.AssemblyInfoInputs.cache
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.AssemblyInfo.cs
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.csproj.CoreCompileInputs.cache
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.dll
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.pdb
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.genruntimeconfig.cache
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.csproj.AssemblyReference.cache
+C:\Desarrollo de aplicaciones web\Proyecto consola\obj\Debug\netcoreapp3.1\Proyecto consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\bin\Debug\netcoreapp3.1\Proyecto consola.exe
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\bin\Debug\netcoreapp3.1\Proyecto consola.deps.json
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\bin\Debug\netcoreapp3.1\Proyecto consola.runtimeconfig.json
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\bin\Debug\netcoreapp3.1\Proyecto consola.runtimeconfig.dev.json
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\bin\Debug\netcoreapp3.1\Proyecto consola.dll
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\bin\Debug\netcoreapp3.1\Proyecto consola.pdb
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.csproj.AssemblyReference.cache
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.AssemblyInfoInputs.cache
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.AssemblyInfo.cs
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.csproj.CoreCompileInputs.cache
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.dll
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.pdb
+C:\Desarrollo de aplicaciones web\Proyecto-Alfa\obj\Debug\netcoreapp3.1\Proyecto consola.genruntimeconfig.cache
