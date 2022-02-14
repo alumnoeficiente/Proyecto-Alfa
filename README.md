@@ -15,7 +15,7 @@
 
 
 
- ![dance](https://img1.picmix.com/output/stamp/normal/5/4/9/3/533945_5c1f6.gif) ![dancedance](https://64.media.tumblr.com/cc70cd9e9b9b65c04391e2928c2ec737/tumblr_nigk9f71Dp1shcz4do1_400.gifv) ![music](https://img1.picmix.com/output/stamp/normal/5/4/9/3/533945_5c1f6.gif)
+![dancedance](https://64.media.tumblr.com/cc70cd9e9b9b65c04391e2928c2ec737/tumblr_nigk9f71Dp1shcz4do1_400.gifv) 
  
  
  
